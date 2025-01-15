@@ -1,3 +1,4 @@
 # Konha
-This is My  First Git Repo
+This is My  First Git Repository.
+<br>
 Author - Aditya  Roshan Pradhan
